@@ -1,0 +1,14 @@
+layout_spectrum: 0.33944339607842267
+typography_spectrum: 0.2225256748497486
+color:
+  brandStrength: 0.10954141081310809
+  lightness: 0.8436345150694251
+  saturation: 0.641701917629689
+  rhythmicContrast: 0.9589643890503794
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: cim-hamilton.org
