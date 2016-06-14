@@ -20,8 +20,8 @@ description: >-
   you can't watch Netflix in the bedroom, you can't FaceTime in the backyard.
   This is simply because most of us have one WiFi router for our entire home,
   and that just doesn't work for how we use Internet today.
-datePublished: '2016-06-14T01:45:53.746Z'
-dateModified: '2016-06-14T01:44:56.913Z'
+datePublished: '2016-06-14T01:47:50.868Z'
+dateModified: '2016-06-14T01:46:08.561Z'
 sourcePath: _posts/2016-04-15-eero-no-more-internet-dead-zones.md
 related: []
 author:
@@ -35,7 +35,7 @@ publisher:
   domain: www.coolhunting.com
   url: 'http://www.coolhunting.com'
   favicon: 'http://assets.coolhunting.com/favicon.ico'
-starred: false
+starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 
