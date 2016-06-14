@@ -1,10 +1,9 @@
 ---
-datePublished: '2016-05-26T03:10:05.950Z'
-sourcePath: _posts/2016-04-15-eero-no-more-internet-dead-zones.md
 inFeed: true
-isBasedOnUrl: 'http://www.coolhunting.com/tech/eero-wifi-that-works'
-authors: []
 hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.coolhunting.com/tech/eero-wifi-that-works'
+inLanguage: en
 keywords:
   - eero
   - wifi
@@ -16,21 +15,26 @@ keywords:
   - simply
   - reliable
   - 25-number
+description: >-
+  Nearly all homes have a WiFi dead zone: you never get messages in the kitchen,
+  you can't watch Netflix in the bedroom, you can't FaceTime in the backyard.
+  This is simply because most of us have one WiFi router for our entire home,
+  and that just doesn't work for how we use Internet today.
+datePublished: '2016-06-14T01:45:53.746Z'
+dateModified: '2016-06-14T01:44:56.913Z'
+sourcePath: _posts/2016-04-15-eero-no-more-internet-dead-zones.md
 related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-05-26T03:10:05.581Z'
 title: 'eero: No More Internet Dead Zones'
 app_links: []
+authors: []
 publisher:
   name: Cool Hunting
   domain: www.coolhunting.com
   url: 'http://www.coolhunting.com'
   favicon: 'http://assets.coolhunting.com/favicon.ico'
-description: "Nearly all homes have a WiFi dead zone: you never get messages in the kitchen, you can't watch Netflix in the bedroom, you can't FaceTime in the backyard. This is simply because most of us have one WiFi router for our entire home, and that just doesn't work for how we use Internet today."
-inLanguage: en
-inNav: false
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
