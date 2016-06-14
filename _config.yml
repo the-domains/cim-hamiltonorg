@@ -1,14 +1,28 @@
+name: cim-hamilton.org
+favicon: null
 layout_spectrum: 0.33944339607842267
 typography_spectrum: 0.2225256748497486
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
+  brandColors:
+    - '#105B63'
+    - '#FFFAD5'
+    - '#FFD34E'
+    - '#DB9E36'
+    - '#BD4932'
   brandStrength: 0.10954141081310809
   lightness: 0.8436345150694251
   saturation: 0.641701917629689
   rhythmicContrast: 0.9589643890503794
-  brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-name: cim-hamilton.org
+purpose: []
