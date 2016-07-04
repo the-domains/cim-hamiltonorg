@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[CIM Hamilton]]></title>
-        <description><![CDATA[CIM Hamilton]]></description>
+        <title><![CDATA[Canadian Institute of Management Hamilton Chapter]]></title>
+        <description><![CDATA[Canadian Institute of Management Hamilton Chapter]]></description>
         <link>http://cim-hamilton.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 14 Jun 2016 01:47:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2016 16:24:17 GMT</lastBuildDate>
         <atom:link href="http://cim-hamilton.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[eero: No More Internet Dead Zones]]></title>
@@ -19,6 +19,13 @@
             <link>http://www.wallpaper.com/lifestyle/hyperloop-wants-to-connect-these-major-european-cities-with-high-speed-trains</link>
             <guid isPermaLink="false">15e299de-83eb-458f-b061-d03fbb4399e7</guid>
             <pubDate>Thu, 26 May 2016 03:10:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b227e343-ba78-425f-a9ae-c704b7938196.tif">]]></description>
+            <link>http://cim-hamilton.org/c66f8e5c-79c1-4157-95b4-8153805fc8fe/index.html</link>
+            <guid isPermaLink="false">c66f8e5c-79c1-4157-95b4-8153805fc8fe</guid>
+            <pubDate>Mon, 04 Jul 2016 16:24:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Headspace App Launches Personal Meditative Pods]]></title>
