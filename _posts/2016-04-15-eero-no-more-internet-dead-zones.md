@@ -16,28 +16,26 @@ keywords:
   - reliable
   - 25-number
 description: >-
-  Nearly all homes have a WiFi dead zone: you never get messages in the kitchen,
-  you can't watch Netflix in the bedroom, you can't FaceTime in the backyard.
-  This is simply because most of us have one WiFi router for our entire home,
-  and that just doesn't work for how we use Internet today.
-datePublished: '2016-06-14T01:47:50.868Z'
-dateModified: '2016-06-14T01:46:08.561Z'
+  See what's happening with the Hamilton Chapter of CIM in out April 2016
+  newsletter.
+datePublished: '2016-07-28T17:18:36.464Z'
+dateModified: '2016-07-28T17:18:16.435Z'
 sourcePath: _posts/2016-04-15-eero-no-more-internet-dead-zones.md
 related: []
 author:
   - name: ''
     url: ''
-title: 'eero: No More Internet Dead Zones'
+title: Hamilton Scene 2016
 app_links: []
+via: {}
 authors: []
-publisher:
-  name: Cool Hunting
-  domain: www.coolhunting.com
-  url: 'http://www.coolhunting.com'
-  favicon: 'http://assets.coolhunting.com/favicon.ico'
+publisher: {}
 starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>eero: No More Internet Dead Zones</h1><p>Nearly all homes have a WiFi dead zone: you never get messages in the kitchen, you can't watch Netflix in the bedroom, you can't FaceTime in the backyard. This is simply because most of us have one WiFi router for our entire home, and that just doesn't work for how we use Internet today.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e75956575966b1c70c11ff614cb972cd2133a6a9.jpg" /></article>
+# Hamilton Scene 2016
+
+See what's happening with the Hamilton Chapter of CIM in out April 2016 newsletter.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/394a2528-0ca7-47a8-85b7-c0cbff7898be.png)
