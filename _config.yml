@@ -19,6 +19,12 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Denise McMullin
+  email: dmcmullincim@gmail.com
+  url: cim-hamilton.org
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f570e5c-e35c-4504-9f7f-577e33f2777b.jpg
 name: cim-hamilton.org
 cta:
   domain: null
