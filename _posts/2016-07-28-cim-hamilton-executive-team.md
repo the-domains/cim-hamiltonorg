@@ -7,8 +7,8 @@ keywords: []
 description: >-
   CIM Hamilton Executive Team.Don Spaetzel, C.I.M., P.Mgr., Chapter Chair and
   Tibor Olah, C.I.M., Marketing Chair
-datePublished: '2016-07-28T16:52:07.985Z'
-dateModified: '2016-07-28T16:51:19.299Z'
+datePublished: '2016-07-28T16:53:30.397Z'
+dateModified: '2016-07-28T16:52:15.725Z'
 title: ''
 author: []
 via: {}
