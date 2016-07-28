@@ -1,20 +1,4 @@
-name: cim-hamilton.org
-favicon: null
-layout_spectrum: 0.99338
 typography_spectrum: 0.9994
-title: Canadian Institute of Management Hamilton Chapter
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#1d235d'
@@ -26,4 +10,21 @@ color:
   lightness: 0.8436345150694251
   saturation: 0.641701917629689
   rhythmicContrast: 0.9589643890503794
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.99338
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: cim-hamilton.org
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Canadian Institute of Management Hamilton Chapter
+description: Become a Certified Manager
 purpose: []
