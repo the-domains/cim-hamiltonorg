@@ -5,15 +5,15 @@ inNav: false
 inLanguage: null
 keywords: []
 description: CIM Hamilton Executive Team
-datePublished: '2016-07-28T16:46:39.471Z'
-dateModified: '2016-07-28T16:46:03.546Z'
+datePublished: '2016-07-28T16:47:46.277Z'
+dateModified: '2016-07-28T16:46:47.818Z'
 title: ''
 author: []
 via: {}
+sourcePath: _posts/2016-07-28-cim-hamilton-executive-team.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: _posts/2016-07-28-cim-hamilton-executive-team.md
 url: cim-hamilton-executive-team/index.html
 _type: Article
 
