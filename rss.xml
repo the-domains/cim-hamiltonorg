@@ -2,10 +2,10 @@
     <channel>
         <title><![CDATA[Canadian Institute of Management Hamilton Chapter]]></title>
         <description><![CDATA[Canadian Institute of Management Hamilton Chapter]]></description>
-        <link>http://cim-hamilton.org/</link>
+        <link>https://thegrid.ai/cim-hamiltonorg/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jul 2016 17:19:46 GMT</lastBuildDate>
-        <atom:link href="http://cim-hamilton.org/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 29 Jul 2016 00:14:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cim-hamiltonorg/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hamilton Scene 2016]]></title>
             <description><![CDATA[<article><h1>Hamilton Scene 2016</h1><p>See what's happening with the Hamilton Chapter of CIM in out April 2016 newsletter.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/394a2528-0ca7-47a8-85b7-c0cbff7898be.png"></article>]]></description>
@@ -21,9 +21,16 @@
             <pubDate>Thu, 26 May 2016 03:10:05 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Chartered Manager( C.Mgr.)]]></title>
+            <description><![CDATA[<article><h1>Chartered Manager( C.Mgr.)</h1><p>A Charter of Distinction: Ethics and Sustainability in Management</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d5be92d8-7455-4eff-8070-c69857b3c674.png"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/96726b89-8665-458f-b1ac-b46d1d01b3a0.jpg</link>
+            <guid isPermaLink="false">e448fd87-077c-4a4f-a4ea-ab5a43845920</guid>
+            <pubDate>Fri, 29 Jul 2016 00:14:30 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b01732d6-aad5-4cc0-b785-f72e5a3eb505.jpg">]]></description>
-            <link>http://cim-hamilton.org/cim-hamilton-executive-team/index.html</link>
+            <link>https://thegrid.ai/cim-hamiltonorg/cim-hamilton-executive-team/index.html</link>
             <guid isPermaLink="false">e68e8cca-6e73-46c9-b342-c2224b5d7a6b</guid>
             <pubDate>Thu, 28 Jul 2016 16:57:24 GMT</pubDate>
         </item>
