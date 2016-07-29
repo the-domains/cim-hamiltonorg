@@ -4,7 +4,7 @@
         <description><![CDATA[Canadian Institute of Management Hamilton Chapter]]></description>
         <link>https://thegrid.ai/cim-hamiltonorg/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jul 2016 00:14:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2016 00:15:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cim-hamiltonorg/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hamilton Scene 2016]]></title>
@@ -19,6 +19,13 @@
             <link>http://www.wallpaper.com/lifestyle/hyperloop-wants-to-connect-these-major-european-cities-with-high-speed-trains</link>
             <guid isPermaLink="false">15e299de-83eb-458f-b061-d03fbb4399e7</guid>
             <pubDate>Thu, 26 May 2016 03:10:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Professional Manager(P.Mgr.)]]></title>
+            <description><![CDATA[<article><h1>Professional Manager(P.Mgr.)</h1><p>The P.Mgr. designation denotes an academic and practical Canadian experience background which will permit business to look at the holders of this designation with reasonable confidence as to their management skills.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d5c28d6-8741-42bd-9688-c270a70e31de.png"></article>]]></description>
+            <link>https://thegrid.ai/cim-hamiltonorg/professional-managerpmgr/index.html</link>
+            <guid isPermaLink="false">87ad0649-a7f7-4f71-8cb3-7eeebd6177de</guid>
+            <pubDate>Fri, 29 Jul 2016 00:14:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Distance Education]]></title>
@@ -48,12 +55,6 @@
             <link>https://thegrid.ai/cim-hamiltonorg/cim-hamilton-executive-team/index.html</link>
             <guid isPermaLink="false">e68e8cca-6e73-46c9-b342-c2224b5d7a6b</guid>
             <pubDate>Thu, 28 Jul 2016 16:57:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chartered Manager Designation]]></title>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/b227e343-ba78-425f-a9ae-c704b7938196.tif</link>
-            <guid isPermaLink="false">c66f8e5c-79c1-4157-95b4-8153805fc8fe</guid>
-            <pubDate>Mon, 04 Jul 2016 17:19:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
