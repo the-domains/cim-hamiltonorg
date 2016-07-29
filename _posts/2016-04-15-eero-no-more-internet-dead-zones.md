@@ -1,9 +1,10 @@
 ---
+datePublished: '2016-07-29T00:18:01.219Z'
+sourcePath: _posts/2016-04-15-eero-no-more-internet-dead-zones.md
 inFeed: true
-hasPage: false
-inNav: false
 isBasedOnUrl: 'http://www.coolhunting.com/tech/eero-wifi-that-works'
-inLanguage: en
+authors: []
+hasPage: false
 keywords:
   - eero
   - wifi
@@ -15,21 +16,20 @@ keywords:
   - simply
   - reliable
   - 25-number
-description: >-
-  See what's happening with the Hamilton Chapter of CIM in out April 2016
-  newsletter.
-datePublished: '2016-07-28T17:19:45.024Z'
-dateModified: '2016-07-28T17:18:43.892Z'
-sourcePath: _posts/2016-04-15-eero-no-more-internet-dead-zones.md
 related: []
 author:
   - name: ''
     url: ''
+via: {}
+dateModified: '2016-07-29T00:18:00.895Z'
 title: Hamilton Scene 2016
 app_links: []
-via: {}
-authors: []
 publisher: {}
+description: >-
+  See what's happening with the Hamilton Chapter of CIM in out April 2016
+  newsletter.
+inLanguage: en
+inNav: false
 starred: true
 _context: 'http://schema.org'
 _type: MediaObject
@@ -38,4 +38,3 @@ _type: MediaObject
 # Hamilton Scene 2016
 
 See what's happening with the Hamilton Chapter of CIM in out April 2016 newsletter.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/394a2528-0ca7-47a8-85b7-c0cbff7898be.png)
